@@ -1,4 +1,6 @@
-# Análise Preditiva e Otimização da Cozinha Hospitalar Pediátrica
+# 🏥Análise Preditiva e Otimização da Cozinha Hospitalar Pediátrica🧑🏾‍🍳
+
+---
 
 ## 📄 Visão Geral do Projeto
 
