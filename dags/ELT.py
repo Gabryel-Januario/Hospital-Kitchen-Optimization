@@ -51,7 +51,7 @@ def load_files_optimized(parquet_path: str, conn_id: str, table_name: str, chunk
     print(f"Carga da tabela '{table_name}' concluída com sucesso!")
 
 @dag(
-    dag_id='ELT_pipeline8722',
+    dag_id='ELT_pipeline',
     start_date=datetime(2023,1,1),
     schedule='@daily',
     catchup=False,
