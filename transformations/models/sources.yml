@@ -1,0 +1,34 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: airflow
+    schema: public
+    tables:
+      - name: children
+        columns:
+          - name: child_id
+            tests:
+              - unique
+              - not_null
+
+      - name: consumption
+        columns:
+          - name: record_id
+            tests:
+              - unique
+              - not_null
+
+      - name: ingredients
+        columns:
+          - name: ingredient_id
+            tests:
+              - unique
+              - not_null
+
+      - name: meals
+        columns:
+          - name: meal_id
+            tests:
+              - unique
+              - not_null

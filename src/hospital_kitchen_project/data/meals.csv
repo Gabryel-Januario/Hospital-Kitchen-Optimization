@@ -1,0 +1,541 @@
+meal_id,date,meal_type,menu_name,ingredients,planned_portions
+M0001,2025-01-01,Café,Pao com espinafre,"[""peixe"", ""cogumelo"", ""camarao"", ""cebola"", ""lentilha"", ""alho"", ""carne moida""]",60
+M0002,2025-01-01,Almoço,Lentilha com tofu,"[""carne moida"", ""salsinha"", ""maca"", ""sal""]",76
+M0003,2025-01-01,Jantar,Peixe com iogurte,"[""pao"", ""iogurte"", ""tomate"", ""queijo""]",88
+M0004,2025-01-02,Café,Salsinha com leite condensado,"[""mandioca"", ""camarao"", ""pimenta-do-reino"", ""arroz"", ""cogumelo"", ""batata doce""]",79
+M0005,2025-01-02,Almoço,Cogumelo com cenoura,"[""aveia"", ""abobrinha"", ""cenoura"", ""chocolate"", ""batata doce""]",69
+M0006,2025-01-02,Jantar,Espinafre com cebola,"[""creme de leite"", ""azeite"", ""maca"", ""ervas finas"", ""tofu""]",76
+M0007,2025-01-03,Café,Sal com oregano,"[""frango"", ""batata"", ""tofu"", ""brocolis"", ""espinafre"", ""macarrao""]",60
+M0008,2025-01-03,Almoço,Azeite com peixe,"[""queijo"", ""chocolate"", ""couve"", ""batata doce"", ""creme de leite"", ""brocolis""]",95
+M0009,2025-01-03,Jantar,Arroz com peixe,"[""molho de tomate"", ""leite"", ""salsinha"", ""macarrao""]",83
+M0010,2025-01-04,Café,Mamao com batata doce,"[""brocolis"", ""peixe"", ""macarrao"", ""cebola"", ""iogurte""]",110
+M0011,2025-01-04,Almoço,Macarrao com iogurte,"[""ervas finas"", ""pao"", ""cogumelo"", ""cenoura"", ""manteiga""]",109
+M0012,2025-01-04,Jantar,Batata Doce com beterraba,"[""pao"", ""queijo"", ""ovo"", ""beterraba"", ""feijao""]",71
+M0013,2025-01-05,Café,Chocolate com azeite,"[""cogumelo"", ""chocolate"", ""pao"", ""espinafre"", ""queijo"", ""molho de tomate"", ""cenoura""]",84
+M0014,2025-01-05,Almoço,Macarrao com oregano,"[""banana"", ""lentilha"", ""manteiga"", ""cebola"", ""laranja""]",74
+M0015,2025-01-05,Jantar,Feijao com ervas finas,"[""milho"", ""azeite"", ""espinafre"", ""carne moida"", ""fermento""]",77
+M0016,2025-01-06,Café,Manteiga com cogumelo,"[""ervas finas"", ""salsinha"", ""azeite"", ""feijao"", ""abobrinha"", ""aveia"", ""ovo""]",97
+M0017,2025-01-06,Almoço,Aveia com macarrao,"[""abacaxi"", ""brocolis"", ""manteiga"", ""leite condensado""]",110
+M0018,2025-01-06,Jantar,Alho com couve,"[""ervilha"", ""manga"", ""banana"", ""aveia""]",62
+M0019,2025-01-07,Café,Creme De Leite com brocolis,"[""pimenta-do-reino"", ""salsinha"", ""ervas finas"", ""leite condensado""]",107
+M0020,2025-01-07,Almoço,Chocolate com cogumelo,"[""iogurte"", ""brocolis"", ""carne moida"", ""cogumelo"", ""azeite""]",99
+M0021,2025-01-07,Jantar,Alho com ervas finas,"[""leite condensado"", ""cebola"", ""sal"", ""cogumelo""]",86
+M0022,2025-01-08,Café,Alho com beterraba,"[""batata doce"", ""peixe"", ""banana"", ""beterraba"", ""cogumelo"", ""ervilha""]",103
+M0023,2025-01-08,Almoço,Chocolate com ovo,"[""milho"", ""batata doce"", ""arroz"", ""cebola"", ""tomate"", ""maca""]",87
+M0024,2025-01-08,Jantar,Mamao com mandioca,"[""lentilha"", ""couve"", ""farinha"", ""ervas finas"", ""maca"", ""sal""]",90
+M0025,2025-01-09,Café,Chocolate com queijo,"[""tomate"", ""sal"", ""cogumelo"", ""tofu""]",99
+M0026,2025-01-09,Almoço,Azeite com batata,"[""ervas finas"", ""cebola"", ""laranja"", ""banana"", ""leite""]",61
+M0027,2025-01-09,Jantar,Macarrao com aveia,"[""mandioca"", ""carne moida"", ""lentilha"", ""beterraba"", ""tofu"", ""manga"", ""banana""]",105
+M0028,2025-01-10,Café,Molho De Tomate com ervilha,"[""milho"", ""pao"", ""leite"", ""camarao"", ""molho de tomate"", ""arroz"", ""cenoura""]",109
+M0029,2025-01-10,Almoço,Brocolis com laranja,"[""molho de tomate"", ""pimenta-do-reino"", ""lentilha"", ""frango"", ""batata doce""]",75
+M0030,2025-01-10,Jantar,Abobrinha com pimenta,"[""lentilha"", ""cogumelo"", ""pimenta-do-reino"", ""batata doce"", ""abacaxi""]",80
+M0031,2025-01-11,Café,Farinha com couve,"[""batata doce"", ""couve"", ""queijo"", ""pimenta"", ""farinha"", ""aveia"", ""pao""]",100
+M0032,2025-01-11,Almoço,Espinafre com salsinha,"[""tofu"", ""pao"", ""espinafre"", ""couve"", ""carne moida"", ""tomate"", ""farinha""]",77
+M0033,2025-01-11,Jantar,Azeite com alho,"[""peixe"", ""leite"", ""laranja"", ""ervilha""]",104
+M0034,2025-01-12,Café,Leite com leite condensado,"[""carne moida"", ""beterraba"", ""azeite"", ""salsinha"", ""lentilha""]",86
+M0035,2025-01-12,Almoço,Frango com laranja,"[""ervilha"", ""mamao"", ""molho de tomate"", ""feijao"", ""manga"", ""fermento"", ""pimenta""]",60
+M0036,2025-01-12,Jantar,Manteiga com cebola,"[""beterraba"", ""salsinha"", ""chocolate"", ""farinha"", ""abacaxi"", ""laranja"", ""oregano""]",74
+M0037,2025-01-13,Café,Espinafre com couve,"[""feijao"", ""ervilha"", ""azeite"", ""cogumelo"", ""ervas finas"", ""milho"", ""queijo""]",89
+M0038,2025-01-13,Almoço,Peixe com tofu,"[""milho"", ""mamao"", ""manga"", ""cogumelo""]",61
+M0039,2025-01-13,Jantar,Batata com cogumelo,"[""peixe"", ""lentilha"", ""ovo"", ""frango"", ""aveia"", ""ervilha"", ""alho""]",73
+M0040,2025-01-14,Café,Lentilha com alho,"[""farinha"", ""ervilha"", ""espinafre"", ""beterraba"", ""aveia"", ""batata""]",90
+M0041,2025-01-14,Almoço,Feijao com farinha,"[""manteiga"", ""laranja"", ""camarao"", ""carne moida""]",109
+M0042,2025-01-14,Jantar,Camarao com macarrao,"[""pao"", ""banana"", ""feijao"", ""mandioca""]",69
+M0043,2025-01-15,Café,Pao com peixe,"[""cogumelo"", ""abobrinha"", ""manga"", ""maca"", ""lentilha"", ""molho de tomate"", ""aveia""]",109
+M0044,2025-01-15,Almoço,Iogurte com queijo,"[""fermento"", ""queijo"", ""cebola"", ""cenoura""]",97
+M0045,2025-01-15,Jantar,Feijao com alho,"[""milho"", ""creme de leite"", ""banana"", ""carne moida"", ""mamao"", ""molho de tomate"", ""tofu""]",75
+M0046,2025-01-16,Café,Cenoura com creme de leite,"[""ervas finas"", ""abacaxi"", ""abobrinha"", ""manga"", ""macarrao"", ""manteiga""]",94
+M0047,2025-01-16,Almoço,Brocolis com ervas finas,"[""carne moida"", ""sal"", ""camarao"", ""azeite"", ""arroz"", ""beterraba""]",91
+M0048,2025-01-16,Jantar,Cenoura com couve,"[""tofu"", ""lentilha"", ""creme de leite"", ""leite"", ""brocolis"", ""ovo""]",106
+M0049,2025-01-17,Café,Pimenta-Do-Reino com cogumelo,"[""mandioca"", ""salsinha"", ""pimenta"", ""lentilha"", ""brocolis"", ""mamao""]",77
+M0050,2025-01-17,Almoço,Alho com pao,"[""espinafre"", ""couve"", ""pao"", ""farinha""]",89
+M0051,2025-01-17,Jantar,Manga com tofu,"[""azeite"", ""feijao"", ""oregano"", ""alho"", ""ovo"", ""chocolate"", ""maca""]",82
+M0052,2025-01-18,Café,Aveia com manteiga,"[""abacaxi"", ""molho de tomate"", ""espinafre"", ""batata doce"", ""arroz"", ""pimenta-do-reino""]",72
+M0053,2025-01-18,Almoço,Batata com aveia,"[""oregano"", ""batata doce"", ""pao"", ""molho de tomate"", ""pimenta"", ""camarao"", ""fermento""]",88
+M0054,2025-01-18,Jantar,Feijao com cenoura,"[""laranja"", ""milho"", ""molho de tomate"", ""pao"", ""cebola"", ""cogumelo""]",97
+M0055,2025-01-19,Café,Iogurte com oregano,"[""brocolis"", ""chocolate"", ""batata doce"", ""azeite"", ""manteiga"", ""molho de tomate""]",89
+M0056,2025-01-19,Almoço,Espinafre com alho,"[""laranja"", ""abobrinha"", ""leite condensado"", ""banana"", ""alho"", ""farinha""]",107
+M0057,2025-01-19,Jantar,Salsinha com fermento,"[""banana"", ""maca"", ""chocolate"", ""pimenta"", ""espinafre""]",106
+M0058,2025-01-20,Café,Mamao com fermento,"[""cenoura"", ""banana"", ""tomate"", ""laranja"", ""iogurte"", ""ovo""]",79
+M0059,2025-01-20,Almoço,Arroz com leite condensado,"[""espinafre"", ""macarrao"", ""frango"", ""batata doce"", ""tomate""]",104
+M0060,2025-01-20,Jantar,Peixe com camarao,"[""cenoura"", ""arroz"", ""manga"", ""tomate"", ""pimenta"", ""creme de leite"", ""couve""]",81
+M0061,2025-01-21,Café,Ovo com frango,"[""pimenta"", ""abobrinha"", ""carne moida"", ""milho"", ""oregano"", ""chocolate""]",96
+M0062,2025-01-21,Almoço,Tofu com molho de tomate,"[""leite"", ""manga"", ""cebola"", ""batata""]",75
+M0063,2025-01-21,Jantar,Abobrinha com manga,"[""abacaxi"", ""fermento"", ""mandioca"", ""laranja"", ""pimenta-do-reino"", ""ervilha"", ""couve""]",88
+M0064,2025-01-22,Café,Cebola com abacaxi,"[""cebola"", ""manga"", ""mandioca"", ""frango"", ""chocolate"", ""cenoura"", ""maca""]",100
+M0065,2025-01-22,Almoço,Maca com espinafre,"[""queijo"", ""pao"", ""ovo"", ""batata doce""]",64
+M0066,2025-01-22,Jantar,Queijo com arroz,"[""couve"", ""molho de tomate"", ""abacaxi"", ""pimenta"", ""tomate"", ""macarrao"", ""laranja""]",78
+M0067,2025-01-23,Café,Creme De Leite com tomate,"[""carne moida"", ""ervas finas"", ""laranja"", ""aveia"", ""tofu"", ""mamao"", ""cogumelo""]",72
+M0068,2025-01-23,Almoço,Brocolis com abobrinha,"[""camarao"", ""leite"", ""espinafre"", ""carne moida"", ""frango""]",70
+M0069,2025-01-23,Jantar,Cebola com mandioca,"[""couve"", ""abobrinha"", ""lentilha"", ""molho de tomate"", ""cebola"", ""leite condensado""]",85
+M0070,2025-01-24,Café,Espinafre com pimenta-do-reino,"[""couve"", ""batata"", ""abacaxi"", ""macarrao"", ""brocolis"", ""alho"", ""chocolate""]",76
+M0071,2025-01-24,Almoço,Feijao com cenoura,"[""ervas finas"", ""manga"", ""mamao"", ""feijao"", ""farinha""]",103
+M0072,2025-01-24,Jantar,Espinafre com mamao,"[""farinha"", ""ovo"", ""pimenta"", ""pimenta-do-reino""]",101
+M0073,2025-01-25,Café,Couve com espinafre,"[""mamao"", ""brocolis"", ""tofu"", ""oregano"", ""batata""]",90
+M0074,2025-01-25,Almoço,Manteiga com brocolis,"[""alho"", ""cogumelo"", ""cenoura"", ""queijo"", ""azeite"", ""beterraba""]",104
+M0075,2025-01-25,Jantar,Oregano com tomate,"[""farinha"", ""batata doce"", ""macarrao"", ""lentilha"", ""batata"", ""alho"", ""aveia""]",80
+M0076,2025-01-26,Café,Abobrinha com beterraba,"[""cogumelo"", ""salsinha"", ""lentilha"", ""beterraba""]",63
+M0077,2025-01-26,Almoço,Banana com salsinha,"[""mandioca"", ""farinha"", ""oregano"", ""tofu"", ""couve"", ""frango""]",73
+M0078,2025-01-26,Jantar,Espinafre com manga,"[""tomate"", ""couve"", ""molho de tomate"", ""oregano"", ""abobrinha""]",61
+M0079,2025-01-27,Café,Tofu com abacaxi,"[""creme de leite"", ""queijo"", ""cebola"", ""batata doce"", ""arroz""]",95
+M0080,2025-01-27,Almoço,Beterraba com batata,"[""abobrinha"", ""lentilha"", ""camarao"", ""leite"", ""oregano""]",105
+M0081,2025-01-27,Jantar,Tomate com pimenta-do-reino,"[""beterraba"", ""pimenta"", ""farinha"", ""pao"", ""lentilha"", ""batata doce""]",69
+M0082,2025-01-28,Café,Ervilha com banana,"[""carne moida"", ""espinafre"", ""fermento"", ""beterraba"", ""azeite""]",110
+M0083,2025-01-28,Almoço,Sal com espinafre,"[""tomate"", ""leite condensado"", ""cebola"", ""mamao""]",97
+M0084,2025-01-28,Jantar,Cogumelo com oregano,"[""couve"", ""salsinha"", ""pimenta"", ""manteiga"", ""azeite""]",95
+M0085,2025-01-29,Café,Farinha com salsinha,"[""lentilha"", ""alho"", ""banana"", ""molho de tomate"", ""pao"", ""manga"", ""ervilha""]",74
+M0086,2025-01-29,Almoço,Fermento com beterraba,"[""alho"", ""chocolate"", ""pimenta"", ""creme de leite""]",84
+M0087,2025-01-29,Jantar,Ervilha com ervas finas,"[""oregano"", ""macarrao"", ""peixe"", ""sal"", ""mamao""]",81
+M0088,2025-01-30,Café,Cenoura com lentilha,"[""pimenta-do-reino"", ""lentilha"", ""arroz"", ""leite condensado""]",69
+M0089,2025-01-30,Almoço,Beterraba com cogumelo,"[""carne moida"", ""pimenta"", ""aveia"", ""azeite"", ""mandioca""]",104
+M0090,2025-01-30,Jantar,Milho com cogumelo,"[""azeite"", ""ervas finas"", ""salsinha"", ""ervilha""]",80
+M0091,2025-01-31,Café,Tofu com leite condensado,"[""salsinha"", ""macarrao"", ""mandioca"", ""carne moida"", ""pao"", ""tofu"", ""ervas finas""]",78
+M0092,2025-01-31,Almoço,Laranja com farinha,"[""brocolis"", ""cenoura"", ""farinha"", ""tofu""]",105
+M0093,2025-01-31,Jantar,Cenoura com lentilha,"[""molho de tomate"", ""cebola"", ""feijao"", ""macarrao"", ""alho""]",110
+M0094,2025-02-01,Café,Frango com cebola,"[""iogurte"", ""brocolis"", ""leite"", ""pao"", ""pimenta-do-reino"", ""beterraba""]",96
+M0095,2025-02-01,Almoço,Ervas Finas com ovo,"[""ovo"", ""batata"", ""mandioca"", ""ervilha"", ""ervas finas""]",75
+M0096,2025-02-01,Jantar,Oregano com abacaxi,"[""laranja"", ""lentilha"", ""tofu"", ""aveia"", ""cogumelo""]",60
+M0097,2025-02-02,Café,Lentilha com tomate,"[""carne moida"", ""couve"", ""manteiga"", ""mamao"", ""cebola""]",100
+M0098,2025-02-02,Almoço,Brocolis com creme de leite,"[""lentilha"", ""cebola"", ""banana"", ""ervilha"", ""pimenta"", ""cenoura""]",75
+M0099,2025-02-02,Jantar,Ervilha com mamao,"[""manga"", ""tomate"", ""molho de tomate"", ""farinha"", ""feijao"", ""cogumelo""]",85
+M0100,2025-02-03,Café,Espinafre com arroz,"[""abacaxi"", ""chocolate"", ""oregano"", ""tomate""]",109
+M0101,2025-02-03,Almoço,Laranja com mandioca,"[""laranja"", ""tofu"", ""banana"", ""mandioca"", ""aveia"", ""ervas finas""]",108
+M0102,2025-02-03,Jantar,Leite Condensado com cogumelo,"[""tofu"", ""cenoura"", ""camarao"", ""macarrao"", ""cebola""]",110
+M0103,2025-02-04,Café,Couve com macarrao,"[""leite condensado"", ""peixe"", ""batata"", ""tomate"", ""alho"", ""beterraba""]",71
+M0104,2025-02-04,Almoço,Macarrão ao sugo e Carne moída,"[""pimenta-do-reino"", ""sal"", ""espinafre"", ""queijo"", ""aveia"", ""pimenta""]",78
+M0105,2025-02-04,Jantar,Chocolate com azeite,"[""lentilha"", ""carne moida"", ""leite"", ""farinha""]",74
+M0106,2025-02-05,Café,Ervas Finas com chocolate,"[""batata doce"", ""iogurte"", ""batata"", ""milho"", ""arroz"", ""aveia"", ""salsinha""]",67
+M0107,2025-02-05,Almoço,Lentilha com iogurte,"[""mamao"", ""ervilha"", ""tofu"", ""iogurte"", ""cenoura"", ""ervas finas""]",74
+M0108,2025-02-05,Jantar,Pimenta com feijao,"[""mandioca"", ""laranja"", ""camarao"", ""carne moida"", ""tofu"", ""lentilha""]",104
+M0109,2025-02-06,Café,Cebola com cogumelo,"[""abobrinha"", ""peixe"", ""macarrao"", ""chocolate"", ""cebola"", ""oregano"", ""fermento""]",66
+M0110,2025-02-06,Almoço,Pao com batata doce,"[""ervilha"", ""lentilha"", ""iogurte"", ""cogumelo"", ""chocolate""]",104
+M0111,2025-02-06,Jantar,Salsinha com beterraba,"[""beterraba"", ""camarao"", ""cenoura"", ""oregano"", ""mandioca""]",86
+M0112,2025-02-07,Café,Espinafre com macarrao,"[""maca"", ""couve"", ""farinha"", ""pao"", ""iogurte"", ""cenoura""]",103
+M0113,2025-02-07,Almoço,Iogurte com batata doce,"[""frango"", ""milho"", ""espinafre"", ""banana"", ""abobrinha"", ""lentilha""]",65
+M0114,2025-02-07,Jantar,Cogumelo com maca,"[""frango"", ""azeite"", ""pao"", ""peixe""]",110
+M0115,2025-02-08,Café,Manga com maca,"[""farinha"", ""batata doce"", ""maca"", ""mamao""]",73
+M0116,2025-02-08,Almoço,Laranja com manteiga,"[""abacaxi"", ""arroz"", ""espinafre"", ""leite"", ""peixe""]",94
+M0117,2025-02-08,Jantar,Aveia com ovo,"[""cogumelo"", ""feijao"", ""peixe"", ""arroz""]",82
+M0118,2025-02-09,Café,Pao com abacaxi,"[""feijao"", ""ovo"", ""aveia"", ""frango"", ""peixe"", ""beterraba""]",93
+M0119,2025-02-09,Almoço,Abobrinha com farinha,"[""pimenta"", ""couve"", ""fermento"", ""iogurte""]",92
+M0120,2025-02-09,Jantar,Mamao com cenoura,"[""sal"", ""laranja"", ""mandioca"", ""macarrao"", ""cogumelo"", ""pimenta-do-reino"", ""cebola""]",89
+M0121,2025-02-10,Café,Camarao com feijao,"[""pimenta"", ""milho"", ""brocolis"", ""ervas finas""]",66
+M0122,2025-02-10,Almoço,Oregano com leite condensado,"[""carne moida"", ""batata"", ""alho"", ""abacaxi"", ""leite"", ""fermento"", ""peixe""]",77
+M0123,2025-02-10,Jantar,Mandioca com camarao,"[""ervilha"", ""abacaxi"", ""pimenta-do-reino"", ""tomate"", ""lentilha"", ""sal""]",98
+M0124,2025-02-11,Café,Brocolis com cenoura,"[""camarao"", ""fermento"", ""batata doce"", ""leite condensado""]",73
+M0125,2025-02-11,Almoço,Brocolis com lentilha,"[""beterraba"", ""azeite"", ""lentilha"", ""milho"", ""leite condensado""]",66
+M0126,2025-02-11,Jantar,Alho com couve,"[""cogumelo"", ""aveia"", ""iogurte"", ""leite"", ""ervas finas"", ""pimenta""]",64
+M0127,2025-02-12,Café,Batata com cenoura,"[""brocolis"", ""cenoura"", ""chocolate"", ""iogurte""]",68
+M0128,2025-02-12,Almoço,Batata Doce com frango,"[""cogumelo"", ""abobrinha"", ""beterraba"", ""manteiga"", ""fermento"", ""brocolis""]",106
+M0129,2025-02-12,Jantar,Frango com cebola,"[""manteiga"", ""cenoura"", ""manga"", ""sal"", ""maca"", ""leite""]",102
+M0130,2025-02-13,Café,Pimenta com laranja,"[""manteiga"", ""batata doce"", ""iogurte"", ""abobrinha""]",108
+M0131,2025-02-13,Almoço,Espinafre com mamao,"[""brocolis"", ""batata doce"", ""fermento"", ""mandioca"", ""ervas finas""]",101
+M0132,2025-02-13,Jantar,Batata Doce com feijao,"[""feijao"", ""ovo"", ""espinafre"", ""molho de tomate"", ""cebola"", ""azeite""]",82
+M0133,2025-02-14,Café,Arroz com banana,"[""manga"", ""cogumelo"", ""milho"", ""carne moida"", ""leite""]",107
+M0134,2025-02-14,Almoço,Tofu com feijao,"[""chocolate"", ""pimenta-do-reino"", ""maca"", ""ervilha""]",86
+M0135,2025-02-14,Jantar,Lentilha com azeite,"[""iogurte"", ""cebola"", ""leite condensado"", ""alho"", ""fermento""]",96
+M0136,2025-02-15,Café,Abacaxi com batata,"[""leite"", ""queijo"", ""farinha"", ""mandioca""]",63
+M0137,2025-02-15,Almoço,Ervas Finas com batata,"[""couve"", ""cogumelo"", ""brocolis"", ""oregano"", ""abacaxi"", ""fermento""]",86
+M0138,2025-02-15,Jantar,Espinafre com maca,"[""manteiga"", ""brocolis"", ""abobrinha"", ""tomate""]",103
+M0139,2025-02-16,Café,Ervas Finas com mamao,"[""pimenta-do-reino"", ""cogumelo"", ""cebola"", ""macarrao"", ""laranja"", ""milho"", ""abacaxi""]",63
+M0140,2025-02-16,Almoço,Arroz com laranja,"[""maca"", ""peixe"", ""aveia"", ""tomate"", ""alho"", ""abobrinha""]",60
+M0141,2025-02-16,Jantar,Oregano com farinha,"[""ovo"", ""peixe"", ""ervilha"", ""salsinha"", ""creme de leite"", ""laranja"", ""sal""]",95
+M0142,2025-02-17,Café,Cogumelo com manteiga,"[""milho"", ""chocolate"", ""macarrao"", ""brocolis""]",61
+M0143,2025-02-17,Almoço,Lentilha com carne moida,"[""manga"", ""brocolis"", ""fermento"", ""milho"", ""creme de leite"", ""tofu""]",86
+M0144,2025-02-17,Jantar,Tomate com abobrinha,"[""feijao"", ""alho"", ""queijo"", ""mandioca"", ""lentilha"", ""molho de tomate"", ""iogurte""]",65
+M0145,2025-02-18,Café,Brocolis com cenoura,"[""brocolis"", ""mamao"", ""milho"", ""pimenta-do-reino"", ""batata""]",85
+M0146,2025-02-18,Almoço,Cebola com farinha,"[""laranja"", ""azeite"", ""queijo"", ""carne moida"", ""sal"", ""tofu""]",67
+M0147,2025-02-18,Jantar,Pimenta-Do-Reino com sal,"[""fermento"", ""manteiga"", ""leite condensado"", ""camarao"", ""leite""]",75
+M0148,2025-02-19,Café,Cenoura com queijo,"[""banana"", ""ovo"", ""abacaxi"", ""leite"", ""camarao"", ""carne moida""]",71
+M0149,2025-02-19,Almoço,Fermento com tofu,"[""lentilha"", ""farinha"", ""manga"", ""mamao"", ""couve"", ""ervas finas"", ""chocolate""]",101
+M0150,2025-02-19,Jantar,Tofu com mandioca,"[""tofu"", ""alho"", ""leite"", ""couve"", ""carne moida"", ""pimenta""]",88
+M0151,2025-02-20,Café,Tofu com cebola,"[""mamao"", ""frango"", ""manteiga"", ""sal"", ""carne moida"", ""cebola""]",89
+M0152,2025-02-20,Almoço,Couve com macarrao,"[""iogurte"", ""tomate"", ""carne moida"", ""camarao""]",65
+M0153,2025-02-20,Jantar,Mandioca com abacaxi,"[""lentilha"", ""mamao"", ""batata doce"", ""macarrao"", ""couve"", ""manga"", ""camarao""]",72
+M0154,2025-02-21,Café,Fricassé,"[""sal"", ""leite"", ""frango"", ""couve"", ""cenoura"", ""azeite"", ""batata""]",92
+M0155,2025-02-21,Almoço,Camarao com ovo,"[""pao"", ""creme de leite"", ""couve"", ""pimenta-do-reino""]",93
+M0156,2025-02-21,Jantar,Mandioca com queijo,"[""iogurte"", ""tomate"", ""ervilha"", ""beterraba"", ""azeite"", ""ervas finas""]",98
+M0157,2025-02-22,Café,Frango com camarao,"[""carne moida"", ""azeite"", ""cenoura"", ""batata doce"", ""ervas finas"", ""ervilha""]",78
+M0158,2025-02-22,Almoço,Aveia com chocolate,"[""azeite"", ""batata"", ""mamao"", ""cogumelo"", ""leite""]",82
+M0159,2025-02-22,Jantar,Cebola com cogumelo,"[""peixe"", ""abacaxi"", ""creme de leite"", ""batata"", ""cebola"", ""batata doce"", ""ervilha""]",101
+M0160,2025-02-23,Café,Azeite com peixe,"[""camarao"", ""cogumelo"", ""brocolis"", ""sal""]",83
+M0161,2025-02-23,Almoço,Feijao com ervilha,"[""ovo"", ""maca"", ""azeite"", ""oregano"", ""banana"", ""laranja""]",68
+M0162,2025-02-23,Jantar,Leite com carne moida,"[""cenoura"", ""sal"", ""salsinha"", ""pimenta-do-reino"", ""macarrao"", ""cogumelo""]",81
+M0163,2025-02-24,Café,Lasanha,"[""abacaxi"", ""ervilha"", ""leite"", ""queijo"", ""ovo""]",104
+M0164,2025-02-24,Almoço,Lasanha,"[""leite condensado"", ""couve"", ""macarrao"", ""beterraba"", ""iogurte""]",103
+M0165,2025-02-24,Jantar,Leite Condensado com pao,"[""mandioca"", ""tomate"", ""chocolate"", ""couve"", ""laranja"", ""salsinha"", ""pao""]",79
+M0166,2025-02-25,Café,Carne bovina,"[""ervas finas"", ""manga"", ""couve"", ""lentilha"", ""tomate"", ""ervilha""]",92
+M0167,2025-02-25,Almoço,Panqueca,"[""banana"", ""abacaxi"", ""peixe"", ""aveia"", ""frango""]",101
+M0168,2025-02-25,Jantar,Pimenta com iogurte,"[""creme de leite"", ""pimenta-do-reino"", ""abobrinha"", ""tomate""]",65
+M0169,2025-02-26,Café,Farinha com queijo,"[""couve"", ""sal"", ""leite"", ""brocolis"", ""batata"", ""laranja""]",88
+M0170,2025-02-26,Almoço,Manteiga com feijao,"[""frango"", ""milho"", ""sal"", ""iogurte"", ""pao"", ""ervilha"", ""batata""]",83
+M0171,2025-02-26,Jantar,Laranja com feijao,"[""cenoura"", ""creme de leite"", ""camarao"", ""azeite"", ""leite"", ""peixe""]",62
+M0172,2025-02-27,Café,Tomate com oregano,"[""farinha"", ""creme de leite"", ""pimenta"", ""couve"", ""mandioca""]",60
+M0173,2025-02-27,Almoço,Batata com feijao,"[""maca"", ""leite"", ""batata doce"", ""leite condensado"", ""abacaxi"", ""pimenta-do-reino""]",87
+M0174,2025-02-27,Jantar,Abobrinha com cebola,"[""cebola"", ""abobrinha"", ""frango"", ""pao"", ""beterraba""]",100
+M0175,2025-02-28,Café,Mandioca com lentilha,"[""abobrinha"", ""oregano"", ""abacaxi"", ""salsinha""]",61
+M0176,2025-02-28,Almoço,Tofu com sal,"[""creme de leite"", ""leite"", ""tomate"", ""brocolis"", ""arroz""]",99
+M0177,2025-02-28,Jantar,Manteiga com pao,"[""ovo"", ""cogumelo"", ""farinha"", ""batata"", ""pimenta-do-reino"", ""iogurte"", ""carne moida""]",93
+M0178,2025-03-01,Café,Salsinha com sal,"[""ervilha"", ""pimenta"", ""macarrao"", ""tofu""]",84
+M0179,2025-03-01,Almoço,Iogurte com aveia,"[""manteiga"", ""carne moida"", ""pao"", ""leite condensado""]",102
+M0180,2025-03-01,Jantar,Tofu com cenoura,"[""peixe"", ""macarrao"", ""manteiga"", ""salsinha"", ""azeite"", ""camarao""]",71
+M0181,2025-03-02,Café,Fermento com ervas finas,"[""molho de tomate"", ""pimenta"", ""tofu"", ""ovo"", ""peixe"", ""carne moida"", ""lentilha""]",62
+M0182,2025-03-02,Almoço,Tomate com banana,"[""banana"", ""macarrao"", ""alho"", ""cebola""]",92
+M0183,2025-03-02,Jantar,Milho com batata doce,"[""aveia"", ""macarrao"", ""camarao"", ""banana"", ""tomate"", ""manteiga"", ""frango""]",101
+M0184,2025-03-03,Café,Azeite com espinafre,"[""iogurte"", ""brocolis"", ""milho"", ""chocolate""]",88
+M0185,2025-03-03,Almoço,Ervilha com azeite,"[""oregano"", ""molho de tomate"", ""iogurte"", ""pimenta-do-reino"", ""espinafre""]",65
+M0186,2025-03-03,Jantar,Leite Condensado com brocolis,"[""brocolis"", ""abacaxi"", ""ovo"", ""salsinha""]",78
+M0187,2025-03-04,Café,Alho com cenoura,"[""alho"", ""cogumelo"", ""tomate"", ""cebola""]",88
+M0188,2025-03-04,Almoço,Abacaxi com leite condensado,"[""queijo"", ""molho de tomate"", ""couve"", ""manteiga"", ""chocolate"", ""macarrao"", ""leite condensado""]",99
+M0189,2025-03-04,Jantar,Brocolis com espinafre,"[""carne moida"", ""cogumelo"", ""tofu"", ""milho""]",83
+M0190,2025-03-05,Café,Sal com farinha,"[""feijao"", ""leite"", ""abacaxi"", ""ervas finas"", ""couve""]",62
+M0191,2025-03-05,Almoço,Peixe com carne moida,"[""fermento"", ""camarao"", ""iogurte"", ""ervilha"", ""manga""]",62
+M0192,2025-03-05,Jantar,Abacaxi com leite,"[""iogurte"", ""fermento"", ""couve"", ""carne moida"", ""manga"", ""peixe"", ""pimenta-do-reino""]",83
+M0193,2025-03-06,Café,Milho com alho,"[""pao"", ""abobrinha"", ""feijao"", ""ovo"", ""oregano"", ""pimenta-do-reino""]",84
+M0194,2025-03-06,Almoço,Batata Doce com abobrinha,"[""fermento"", ""aveia"", ""creme de leite"", ""couve"", ""maca"", ""mandioca""]",78
+M0195,2025-03-06,Jantar,Molho De Tomate com oregano,"[""abobrinha"", ""peixe"", ""carne moida"", ""couve"", ""ovo""]",105
+M0196,2025-03-07,Café,Couve com batata,"[""cogumelo"", ""manteiga"", ""creme de leite"", ""carne moida"", ""batata doce"", ""salsinha""]",78
+M0197,2025-03-07,Almoço,Cebola com queijo,"[""iogurte"", ""sal"", ""laranja"", ""abobrinha"", ""banana""]",110
+M0198,2025-03-07,Jantar,Peixe com aveia,"[""feijao"", ""iogurte"", ""batata doce"", ""manga"", ""farinha"", ""lentilha"", ""chocolate""]",68
+M0199,2025-03-08,Café,Mandioca com batata,"[""cebola"", ""milho"", ""creme de leite"", ""leite condensado""]",90
+M0200,2025-03-08,Almoço,Panqueca,"[""manga"", ""carne moida"", ""peixe"", ""alho"", ""camarao"", ""farinha"", ""couve""]",89
+M0201,2025-03-08,Jantar,Ervas Finas com pimenta-do-reino,"[""peixe"", ""batata doce"", ""tofu"", ""mamao"", ""ovo"", ""fermento""]",87
+M0202,2025-03-09,Café,Sal com frango,"[""pimenta-do-reino"", ""leite"", ""cebola"", ""queijo""]",70
+M0203,2025-03-09,Almoço,Alho com leite condensado,"[""manteiga"", ""pimenta-do-reino"", ""tomate"", ""batata"", ""aveia""]",72
+M0204,2025-03-09,Jantar,Tofu com batata doce,"[""peixe"", ""tofu"", ""cebola"", ""mandioca"", ""salsinha"", ""batata""]",92
+M0205,2025-03-10,Café,Camarao com queijo,"[""queijo"", ""cogumelo"", ""mandioca"", ""leite condensado"", ""abacaxi""]",81
+M0206,2025-03-10,Almoço,Manga com macarrao,"[""batata"", ""macarrao"", ""camarao"", ""fermento""]",96
+M0207,2025-03-10,Jantar,Aveia com cogumelo,"[""fermento"", ""manga"", ""beterraba"", ""mandioca"", ""tofu""]",61
+M0208,2025-03-11,Café,Oregano com camarao,"[""camarao"", ""cebola"", ""pimenta"", ""pao"", ""ervas finas"", ""milho""]",79
+M0209,2025-03-11,Almoço,Lentilha com carne moida,"[""queijo"", ""couve"", ""beterraba"", ""pimenta""]",89
+M0210,2025-03-11,Jantar,Maca com manteiga,"[""alho"", ""creme de leite"", ""leite condensado"", ""manteiga"", ""milho""]",68
+M0211,2025-03-12,Café,Farinha com iogurte,"[""alho"", ""pao"", ""lentilha"", ""abobrinha""]",77
+M0212,2025-03-12,Almoço,Couve com pao,"[""cenoura"", ""frango"", ""tomate"", ""ervilha"", ""mandioca""]",86
+M0213,2025-03-12,Jantar,Pao com queijo,"[""manga"", ""leite condensado"", ""alho"", ""banana"", ""queijo"", ""oregano""]",92
+M0214,2025-03-13,Café,Lentilha com sal,"[""oregano"", ""feijao"", ""batata"", ""milho"", ""sal"", ""lentilha""]",75
+M0215,2025-03-13,Almoço,Maca com abacaxi,"[""frango"", ""fermento"", ""tomate"", ""oregano"", ""abacaxi"", ""camarao""]",103
+M0216,2025-03-13,Jantar,Pimenta com tomate,"[""cenoura"", ""brocolis"", ""peixe"", ""aveia""]",106
+M0217,2025-03-14,Café,Iogurte com fermento,"[""iogurte"", ""macarrao"", ""milho"", ""frango"", ""manga"", ""batata doce"", ""banana""]",83
+M0218,2025-03-14,Almoço,Batata Doce com tomate,"[""ervilha"", ""sal"", ""couve"", ""farinha""]",95
+M0219,2025-03-14,Jantar,Espinafre com tofu,"[""peixe"", ""cenoura"", ""milho"", ""iogurte""]",110
+M0220,2025-03-15,Café,Azeite com manga,"[""farinha"", ""leite"", ""banana"", ""abacaxi"", ""sal"", ""milho""]",92
+M0221,2025-03-15,Almoço,Macarrao com frango,"[""peixe"", ""creme de leite"", ""azeite"", ""pimenta""]",93
+M0222,2025-03-15,Jantar,Lentilha com leite,"[""alho"", ""mandioca"", ""queijo"", ""milho"", ""chocolate""]",79
+M0223,2025-03-16,Café,Mamao com azeite,"[""creme de leite"", ""manga"", ""cebola"", ""pimenta"", ""feijao"", ""iogurte"", ""azeite""]",103
+M0224,2025-03-16,Almoço,Abobrinha com brocolis,"[""leite condensado"", ""molho de tomate"", ""tofu"", ""feijao"", ""abacaxi"", ""pimenta""]",76
+M0225,2025-03-16,Jantar,Camarao com mamao,"[""leite condensado"", ""frango"", ""mamao"", ""pimenta"", ""queijo""]",93
+M0226,2025-03-17,Café,Tofu com chocolate,"[""leite"", ""ervas finas"", ""pao"", ""macarrao"", ""manga"", ""molho de tomate"", ""abobrinha""]",72
+M0227,2025-03-17,Almoço,Feijao com lentilha,"[""beterraba"", ""leite"", ""fermento"", ""molho de tomate"", ""maca"", ""chocolate""]",92
+M0228,2025-03-17,Jantar,Lasanha,"[""chocolate"", ""leite condensado"", ""frango"", ""creme de leite"", ""peixe"", ""pimenta-do-reino"", ""maca""]",95
+M0229,2025-03-18,Café,Alho com ervas finas,"[""pimenta-do-reino"", ""ervilha"", ""alho"", ""ovo"", ""lentilha"", ""salsinha"", ""azeite""]",94
+M0230,2025-03-18,Almoço,Manteiga com molho de tomate,"[""mandioca"", ""pimenta"", ""banana"", ""pao"", ""espinafre"", ""batata doce""]",79
+M0231,2025-03-18,Jantar,Laranja com alho,"[""creme de leite"", ""maca"", ""molho de tomate"", ""fermento"", ""oregano"", ""alho""]",90
+M0232,2025-03-19,Café,Manteiga com manga,"[""tomate"", ""abobrinha"", ""manga"", ""ervas finas"", ""salsinha"", ""ervilha""]",85
+M0233,2025-03-19,Almoço,Manteiga com leite,"[""macarrao"", ""tomate"", ""creme de leite"", ""batata"", ""manteiga"", ""couve""]",101
+M0234,2025-03-19,Jantar,Aveia com farinha,"[""maca"", ""banana"", ""salsinha"", ""espinafre"", ""batata doce"", ""molho de tomate"", ""leite condensado""]",68
+M0235,2025-03-20,Café,Cenoura com tofu,"[""pao"", ""frango"", ""cogumelo"", ""pimenta-do-reino"", ""laranja""]",100
+M0236,2025-03-20,Almoço,Laranja com frango,"[""beterraba"", ""azeite"", ""creme de leite"", ""pimenta""]",66
+M0237,2025-03-20,Jantar,Ervas Finas com peixe,"[""batata doce"", ""queijo"", ""beterraba"", ""camarao""]",90
+M0238,2025-03-21,Café,Pimenta com cogumelo,"[""farinha"", ""tomate"", ""alho"", ""camarao"", ""frango""]",109
+M0239,2025-03-21,Almoço,Batata com cogumelo,"[""salsinha"", ""chocolate"", ""leite condensado"", ""macarrao"", ""ovo""]",86
+M0240,2025-03-21,Jantar,Ovo com macarrao,"[""oregano"", ""ovo"", ""chocolate"", ""tomate"", ""macarrao"", ""arroz"", ""cebola""]",96
+M0241,2025-03-22,Café,Abacaxi com cenoura,"[""tomate"", ""lentilha"", ""camarao"", ""salsinha"", ""pimenta-do-reino"", ""oregano""]",68
+M0242,2025-03-22,Almoço,Sal com lentilha,"[""banana"", ""abobrinha"", ""azeite"", ""queijo"", ""lentilha"", ""camarao""]",76
+M0243,2025-03-22,Jantar,Creme De Leite com ovo,"[""chocolate"", ""azeite"", ""tomate"", ""manga""]",103
+M0244,2025-03-23,Café,Farinha com banana,"[""mandioca"", ""tofu"", ""milho"", ""brocolis"", ""sal""]",80
+M0245,2025-03-23,Almoço,Batata com beterraba,"[""ovo"", ""peixe"", ""pimenta"", ""alho""]",75
+M0246,2025-03-23,Jantar,Arroz com espinafre,"[""pao"", ""couve"", ""espinafre"", ""azeite"", ""cebola"", ""mamao"", ""manga""]",60
+M0247,2025-03-24,Café,Aveia com cogumelo,"[""molho de tomate"", ""pao"", ""frango"", ""cogumelo"", ""abobrinha"", ""lentilha""]",79
+M0248,2025-03-24,Almoço,Queijo com beterraba,"[""molho de tomate"", ""abobrinha"", ""tofu"", ""tomate"", ""iogurte"", ""mandioca""]",74
+M0249,2025-03-24,Jantar,Laranja com peixe,"[""leite"", ""lentilha"", ""chocolate"", ""abacaxi"", ""iogurte"", ""beterraba"", ""batata doce""]",90
+M0250,2025-03-25,Café,Farinha com salsinha,"[""farinha"", ""pao"", ""ervas finas"", ""abacaxi"", ""batata""]",93
+M0251,2025-03-25,Almoço,Couve com salsinha,"[""carne moida"", ""manga"", ""abobrinha"", ""frango"", ""batata doce"", ""sal""]",72
+M0252,2025-03-25,Jantar,Manga com salsinha,"[""queijo"", ""alho"", ""pimenta-do-reino"", ""couve"", ""abobrinha""]",103
+M0253,2025-03-26,Café,Maca com leite condensado,"[""batata"", ""sal"", ""couve"", ""frango"", ""lentilha"", ""peixe"", ""farinha""]",86
+M0254,2025-03-26,Almoço,Lentilha com mamao,"[""batata doce"", ""lentilha"", ""ervas finas"", ""cebola""]",106
+M0255,2025-03-26,Jantar,Feijao com beterraba,"[""arroz"", ""chocolate"", ""maca"", ""mamao"", ""carne moida"", ""macarrao""]",87
+M0256,2025-03-27,Café,Manteiga com creme de leite,"[""salsinha"", ""frango"", ""carne moida"", ""pimenta""]",62
+M0257,2025-03-27,Almoço,Tomate com brocolis,"[""fermento"", ""peixe"", ""camarao"", ""leite condensado"", ""beterraba""]",83
+M0258,2025-03-27,Jantar,Ervilha com lentilha,"[""ervilha"", ""batata"", ""ervas finas"", ""cogumelo"", ""salsinha"", ""peixe"", ""camarao""]",82
+M0259,2025-03-28,Café,Abobrinha com banana,"[""pimenta-do-reino"", ""peixe"", ""leite condensado"", ""laranja"", ""arroz"", ""feijao"", ""cebola""]",89
+M0260,2025-03-28,Almoço,Ervas Finas com chocolate,"[""salsinha"", ""ervilha"", ""laranja"", ""pao"", ""lentilha"", ""manteiga"", ""leite""]",77
+M0261,2025-03-28,Jantar,Banana com chocolate,"[""macarrao"", ""cogumelo"", ""beterraba"", ""mandioca""]",109
+M0262,2025-03-29,Café,Feijao com aveia,"[""carne moida"", ""cenoura"", ""abacaxi"", ""macarrao"", ""couve""]",98
+M0263,2025-03-29,Almoço,Ervas Finas com leite condensado,"[""pao"", ""chocolate"", ""macarrao"", ""milho""]",88
+M0264,2025-03-29,Jantar,Laranja com batata doce,"[""farinha"", ""fermento"", ""frango"", ""peixe"", ""sal""]",78
+M0265,2025-03-30,Café,Laranja com chocolate,"[""manga"", ""abacaxi"", ""ervas finas"", ""alho"", ""pao"", ""cebola""]",69
+M0266,2025-03-30,Almoço,Cogumelo com pimenta-do-reino,"[""beterraba"", ""cebola"", ""espinafre"", ""frango"", ""batata doce""]",97
+M0267,2025-03-30,Jantar,Chocolate com ovo,"[""batata doce"", ""oregano"", ""frango"", ""manteiga"", ""camarao"", ""cogumelo"", ""ervilha""]",110
+M0268,2025-03-31,Café,Pimenta-Do-Reino com alho,"[""beterraba"", ""leite"", ""cebola"", ""ervilha"", ""ovo"", ""salsinha"", ""pimenta""]",75
+M0269,2025-03-31,Almoço,Laranja com alho,"[""lentilha"", ""frango"", ""batata doce"", ""beterraba"", ""pimenta-do-reino""]",68
+M0270,2025-03-31,Jantar,Ervilha com pao,"[""maca"", ""azeite"", ""camarao"", ""batata"", ""couve"", ""iogurte""]",65
+M0271,2025-04-01,Café,Salsinha com chocolate,"[""frango"", ""espinafre"", ""ervilha"", ""ervas finas"", ""abacaxi""]",98
+M0272,2025-04-01,Almoço,Macarrao com batata,"[""farinha"", ""mamao"", ""leite condensado"", ""cogumelo"", ""batata doce""]",73
+M0273,2025-04-01,Jantar,Pimenta com maca,"[""cebola"", ""arroz"", ""maca"", ""banana"", ""abobrinha"", ""pimenta""]",75
+M0274,2025-04-02,Café,Molho De Tomate com abacaxi,"[""milho"", ""pao"", ""batata doce"", ""alho"", ""fermento""]",78
+M0275,2025-04-02,Almoço,Ervilha com pimenta,"[""cebola"", ""aveia"", ""iogurte"", ""sal"", ""oregano"", ""lentilha""]",66
+M0276,2025-04-02,Jantar,Leite Condensado com pimenta,"[""maca"", ""iogurte"", ""alho"", ""beterraba"", ""macarrao"", ""manga""]",74
+M0277,2025-04-03,Café,Chocolate com leite,"[""aveia"", ""batata doce"", ""mamao"", ""leite condensado""]",86
+M0278,2025-04-03,Almoço,Tomate com leite,"[""azeite"", ""laranja"", ""ervilha"", ""manga"", ""pao""]",91
+M0279,2025-04-03,Jantar,Batata Doce com cogumelo,"[""aveia"", ""farinha"", ""oregano"", ""leite condensado"", ""camarao"", ""chocolate""]",89
+M0280,2025-04-04,Café,Queijo com chocolate,"[""queijo"", ""peixe"", ""leite condensado"", ""salsinha"", ""oregano"", ""ovo""]",94
+M0281,2025-04-04,Almoço,Camarao com frango,"[""carne moida"", ""cogumelo"", ""frango"", ""farinha""]",60
+M0282,2025-04-04,Jantar,Beterraba com peixe,"[""carne moida"", ""creme de leite"", ""leite"", ""arroz"", ""maca""]",92
+M0283,2025-04-05,Café,Lentilha com iogurte,"[""mandioca"", ""tofu"", ""cogumelo"", ""pimenta""]",102
+M0284,2025-04-05,Almoço,Oregano com feijao,"[""salsinha"", ""batata doce"", ""beterraba"", ""arroz""]",61
+M0285,2025-04-05,Jantar,Pimenta-Do-Reino com chocolate,"[""salsinha"", ""tomate"", ""feijao"", ""sal"", ""molho de tomate"", ""ervas finas""]",87
+M0286,2025-04-06,Café,Ovo com cenoura,"[""pimenta-do-reino"", ""leite"", ""pao"", ""banana""]",99
+M0287,2025-04-06,Almoço,Pimenta-Do-Reino com aveia,"[""espinafre"", ""milho"", ""batata"", ""iogurte"", ""farinha"", ""lentilha""]",96
+M0288,2025-04-06,Jantar,Pao com creme de leite,"[""cebola"", ""ervas finas"", ""batata"", ""camarao"", ""farinha""]",62
+M0289,2025-04-07,Café,Batata com beterraba,"[""ervilha"", ""batata doce"", ""pimenta"", ""frango"", ""tofu"", ""arroz"", ""queijo""]",65
+M0290,2025-04-07,Almoço,Oregano com brocolis,"[""manga"", ""cenoura"", ""pimenta-do-reino"", ""macarrao"", ""laranja"", ""maca""]",104
+M0291,2025-04-07,Jantar,Manga com pimenta,"[""macarrao"", ""carne moida"", ""ervas finas"", ""espinafre"", ""salsinha"", ""manga""]",102
+M0292,2025-04-08,Café,Macarrao com banana,"[""feijao"", ""maca"", ""mamao"", ""leite"", ""creme de leite"", ""milho""]",64
+M0293,2025-04-08,Almoço,Cebola com queijo,"[""manga"", ""ervilha"", ""ervas finas"", ""salsinha"", ""azeite""]",84
+M0294,2025-04-08,Jantar,Farinha com chocolate,"[""molho de tomate"", ""leite condensado"", ""batata"", ""sal"", ""chocolate""]",82
+M0295,2025-04-09,Café,Frango com abobrinha,"[""laranja"", ""carne moida"", ""azeite"", ""abacaxi"", ""mandioca"", ""leite condensado"", ""milho""]",109
+M0296,2025-04-09,Almoço,Alho com feijao,"[""couve"", ""oregano"", ""laranja"", ""manteiga"", ""batata doce"", ""ervilha""]",87
+M0297,2025-04-09,Jantar,Ovo com molho de tomate,"[""batata"", ""mandioca"", ""tomate"", ""pao"", ""creme de leite"", ""carne moida"", ""fermento""]",77
+M0298,2025-04-10,Café,Leite com milho,"[""chocolate"", ""ervilha"", ""alho"", ""iogurte"", ""cenoura""]",65
+M0299,2025-04-10,Almoço,Arroz com alho,"[""iogurte"", ""farinha"", ""espinafre"", ""cenoura"", ""peixe"", ""batata"", ""ovo""]",87
+M0300,2025-04-10,Jantar,Couve com manga,"[""cenoura"", ""feijao"", ""batata"", ""manteiga"", ""batata doce"", ""chocolate"", ""abacaxi""]",98
+M0301,2025-04-11,Café,Alho com milho,"[""tomate"", ""beterraba"", ""ervilha"", ""fermento""]",65
+M0302,2025-04-11,Almoço,Leite Condensado com batata doce,"[""manga"", ""pimenta-do-reino"", ""queijo"", ""ervas finas"", ""ervilha""]",70
+M0303,2025-04-11,Jantar,Peixe com tomate,"[""espinafre"", ""oregano"", ""leite"", ""carne moida"", ""queijo"", ""brocolis""]",77
+M0304,2025-04-12,Café,Beterraba com cebola,"[""carne moida"", ""iogurte"", ""aveia"", ""pao"", ""tofu"", ""oregano"", ""abacaxi""]",99
+M0305,2025-04-12,Almoço,Banana com pimenta,"[""peixe"", ""cebola"", ""arroz"", ""milho""]",81
+M0306,2025-04-12,Jantar,Mandioca com ervilha,"[""couve"", ""azeite"", ""brocolis"", ""camarao"", ""abacaxi"", ""peixe""]",79
+M0307,2025-04-13,Café,Fricassé,"[""pimenta"", ""alho"", ""ovo"", ""milho"", ""tomate""]",107
+M0308,2025-04-13,Almoço,Molho De Tomate com tofu,"[""manga"", ""pao"", ""alho"", ""ervilha"", ""espinafre"", ""milho"", ""iogurte""]",67
+M0309,2025-04-13,Jantar,Manga com banana,"[""ervas finas"", ""fermento"", ""batata doce"", ""feijao"", ""leite condensado""]",89
+M0310,2025-04-14,Café,Creme De Leite com maca,"[""tomate"", ""molho de tomate"", ""carne moida"", ""beterraba"", ""ervas finas"", ""oregano"", ""peixe""]",100
+M0311,2025-04-14,Almoço,Cebola com pao,"[""cogumelo"", ""leite"", ""creme de leite"", ""brocolis"", ""ervilha"", ""carne moida""]",88
+M0312,2025-04-14,Jantar,Abacaxi com pimenta,"[""salsinha"", ""sal"", ""molho de tomate"", ""beterraba"", ""fermento"", ""macarrao"", ""iogurte""]",104
+M0313,2025-04-15,Café,Salsinha com mandioca,"[""cenoura"", ""fermento"", ""pao"", ""cogumelo""]",102
+M0314,2025-04-15,Almoço,Manteiga com queijo,"[""manga"", ""camarao"", ""ervas finas"", ""milho""]",108
+M0315,2025-04-15,Jantar,Azeite com couve,"[""arroz"", ""cenoura"", ""aveia"", ""laranja""]",92
+M0316,2025-04-16,Café,Chocolate com pimenta-do-reino,"[""couve"", ""iogurte"", ""milho"", ""lentilha"", ""fermento""]",103
+M0317,2025-04-16,Almoço,Mamao com creme de leite,"[""manteiga"", ""feijao"", ""pimenta"", ""cenoura"", ""tomate""]",86
+M0318,2025-04-16,Jantar,Batata com peixe,"[""manteiga"", ""cebola"", ""azeite"", ""lentilha"", ""maca""]",93
+M0319,2025-04-17,Café,Pimenta com manteiga,"[""cenoura"", ""couve"", ""leite condensado"", ""molho de tomate"", ""farinha"", ""alho"", ""carne moida""]",79
+M0320,2025-04-17,Almoço,Macarrao com leite condensado,"[""feijao"", ""azeite"", ""camarao"", ""cenoura""]",103
+M0321,2025-04-17,Jantar,Queijo com farinha,"[""pimenta-do-reino"", ""ovo"", ""batata doce"", ""queijo"", ""azeite""]",95
+M0322,2025-04-18,Café,Brocolis com pimenta,"[""milho"", ""tofu"", ""ovo"", ""cogumelo"", ""brocolis""]",85
+M0323,2025-04-18,Almoço,Feijao com farinha,"[""couve"", ""mamao"", ""brocolis"", ""ervilha"", ""arroz""]",105
+M0324,2025-04-18,Jantar,Maca com laranja,"[""farinha"", ""creme de leite"", ""carne moida"", ""manga"", ""cenoura"", ""salsinha""]",71
+M0325,2025-04-19,Café,Iogurte com alho,"[""lentilha"", ""abobrinha"", ""aveia"", ""cogumelo"", ""oregano""]",93
+M0326,2025-04-19,Almoço,Tofu com alho,"[""mandioca"", ""milho"", ""mamao"", ""abobrinha"", ""manteiga"", ""creme de leite"", ""lentilha""]",99
+M0327,2025-04-19,Jantar,Ovo com molho de tomate,"[""mandioca"", ""mamao"", ""batata"", ""ervas finas"", ""peixe"", ""alho""]",67
+M0328,2025-04-20,Café,Pao com alho,"[""ovo"", ""iogurte"", ""molho de tomate"", ""leite""]",92
+M0329,2025-04-20,Almoço,Ervilha com brocolis,"[""manga"", ""ervilha"", ""brocolis"", ""ovo"", ""oregano""]",100
+M0330,2025-04-20,Jantar,Salsinha com creme de leite,"[""batata doce"", ""queijo"", ""oregano"", ""tomate"", ""peixe""]",71
+M0331,2025-04-21,Café,Alho com lentilha,"[""manteiga"", ""arroz"", ""oregano"", ""peixe""]",72
+M0332,2025-04-21,Almoço,Ervilha com manga,"[""beterraba"", ""ervas finas"", ""oregano"", ""fermento"", ""creme de leite"", ""couve"", ""chocolate""]",70
+M0333,2025-04-21,Jantar,Batata com mamao,"[""farinha"", ""laranja"", ""tomate"", ""macarrao""]",77
+M0334,2025-04-22,Café,Laranja com batata doce,"[""queijo"", ""lentilha"", ""manga"", ""oregano"", ""batata doce"", ""sal""]",67
+M0335,2025-04-22,Almoço,Manga com abobrinha,"[""fermento"", ""salsinha"", ""iogurte"", ""farinha"", ""macarrao"", ""couve""]",94
+M0336,2025-04-22,Jantar,Maca com couve,"[""chocolate"", ""camarao"", ""farinha"", ""pao""]",79
+M0337,2025-04-23,Café,Macarrao com lentilha,"[""manteiga"", ""batata"", ""couve"", ""abobrinha"", ""pao"", ""maca""]",107
+M0338,2025-04-23,Almoço,Mamao com creme de leite,"[""creme de leite"", ""mandioca"", ""tofu"", ""brocolis"", ""queijo"", ""farinha""]",68
+M0339,2025-04-23,Jantar,Maca com laranja,"[""manga"", ""manteiga"", ""salsinha"", ""espinafre""]",98
+M0340,2025-04-24,Café,Salsinha com queijo,"[""creme de leite"", ""tomate"", ""farinha"", ""manga"", ""espinafre"", ""sal""]",103
+M0341,2025-04-24,Almoço,Cenoura com leite,"[""frango"", ""espinafre"", ""camarao"", ""peixe"", ""molho de tomate"", ""leite condensado"", ""pao""]",69
+M0342,2025-04-24,Jantar,Creme De Leite com alho,"[""farinha"", ""ervas finas"", ""milho"", ""oregano"", ""leite""]",96
+M0343,2025-04-25,Café,Tofu com espinafre,"[""ervilha"", ""couve"", ""carne moida"", ""tofu"", ""batata"", ""milho"", ""sal""]",107
+M0344,2025-04-25,Almoço,Espinafre com creme de leite,"[""lentilha"", ""oregano"", ""alho"", ""mamao"", ""arroz"", ""batata""]",106
+M0345,2025-04-25,Jantar,Lentilha com camarao,"[""carne moida"", ""salsinha"", ""milho"", ""maca"", ""brocolis"", ""leite condensado""]",91
+M0346,2025-04-26,Café,Espinafre com azeite,"[""azeite"", ""batata doce"", ""manga"", ""peixe"", ""chocolate"", ""oregano""]",110
+M0347,2025-04-26,Almoço,Azeite com molho de tomate,"[""macarrao"", ""cenoura"", ""tofu"", ""lentilha""]",61
+M0348,2025-04-26,Jantar,Abobrinha com ovo,"[""lentilha"", ""arroz"", ""brocolis"", ""banana"", ""molho de tomate"", ""peixe"", ""camarao""]",79
+M0349,2025-04-27,Café,Queijo com tomate,"[""camarao"", ""iogurte"", ""aveia"", ""batata""]",83
+M0350,2025-04-27,Almoço,Cogumelo com camarao,"[""frango"", ""milho"", ""tofu"", ""cebola"", ""leite condensado""]",104
+M0351,2025-04-27,Jantar,Farinha com laranja,"[""camarao"", ""batata"", ""creme de leite"", ""cenoura"", ""arroz"", ""maca"", ""pimenta""]",64
+M0352,2025-04-28,Café,Peixe com abacaxi,"[""pimenta-do-reino"", ""ervas finas"", ""couve"", ""arroz"", ""molho de tomate""]",81
+M0353,2025-04-28,Almoço,Abobrinha com couve,"[""pimenta"", ""carne moida"", ""laranja"", ""ervilha"", ""batata""]",106
+M0354,2025-04-28,Jantar,Cenoura com abobrinha,"[""iogurte"", ""cebola"", ""peixe"", ""ervilha"", ""chocolate"", ""camarao""]",103
+M0355,2025-04-29,Café,Leite com carne moida,"[""mandioca"", ""camarao"", ""queijo"", ""couve""]",82
+M0356,2025-04-29,Almoço,Leite Condensado com maca,"[""beterraba"", ""mandioca"", ""ervas finas"", ""couve"", ""maca""]",65
+M0357,2025-04-29,Jantar,Cenoura com leite,"[""mamao"", ""leite condensado"", ""ervilha"", ""manteiga""]",87
+M0358,2025-04-30,Café,Alho com peixe,"[""espinafre"", ""camarao"", ""batata"", ""pao"", ""batata doce""]",98
+M0359,2025-04-30,Almoço,Abacaxi com chocolate,"[""fermento"", ""molho de tomate"", ""feijao"", ""cogumelo"", ""cebola"", ""maca""]",93
+M0360,2025-04-30,Jantar,Abacaxi com sal,"[""chocolate"", ""milho"", ""tomate"", ""camarao"", ""frango""]",110
+M0361,2025-05-01,Café,Pao com sal,"[""abobrinha"", ""pao"", ""oregano"", ""tofu"", ""abacaxi"", ""carne moida"", ""pimenta-do-reino""]",60
+M0362,2025-05-01,Almoço,Iogurte com alho,"[""ervilha"", ""manga"", ""beterraba"", ""iogurte"", ""salsinha""]",103
+M0363,2025-05-01,Jantar,Ovo com fermento,"[""fermento"", ""carne moida"", ""feijao"", ""mamao"", ""farinha"", ""arroz"", ""aveia""]",73
+M0364,2025-05-02,Café,Macarrao com carne moida,"[""sal"", ""tomate"", ""tofu"", ""creme de leite"", ""fermento"", ""beterraba"", ""brocolis""]",104
+M0365,2025-05-02,Almoço,Milho com batata,"[""espinafre"", ""batata"", ""cebola"", ""sal"", ""maca""]",69
+M0366,2025-05-02,Jantar,Salsinha com alho,"[""mamao"", ""tofu"", ""camarao"", ""ervas finas"", ""chocolate"", ""carne moida"", ""cebola""]",104
+M0367,2025-05-03,Café,Brocolis com chocolate,"[""frango"", ""pao"", ""batata"", ""brocolis"", ""abobrinha""]",89
+M0368,2025-05-03,Almoço,Mandioca com abacaxi,"[""cebola"", ""cogumelo"", ""chocolate"", ""ovo""]",67
+M0369,2025-05-03,Jantar,Arroz com leite condensado,"[""molho de tomate"", ""arroz"", ""queijo"", ""oregano"", ""manteiga""]",93
+M0370,2025-05-04,Café,Pimenta-Do-Reino com chocolate,"[""queijo"", ""iogurte"", ""peixe"", ""espinafre"", ""abobrinha"", ""feijao""]",81
+M0371,2025-05-04,Almoço,Brocolis com espinafre,"[""aveia"", ""creme de leite"", ""manga"", ""tofu""]",64
+M0372,2025-05-04,Jantar,Oregano com lentilha,"[""frango"", ""oregano"", ""manga"", ""queijo"", ""iogurte"", ""leite condensado""]",76
+M0373,2025-05-05,Café,Fermento com cenoura,"[""laranja"", ""chocolate"", ""sal"", ""arroz""]",62
+M0374,2025-05-05,Almoço,Arroz com aveia,"[""pimenta"", ""iogurte"", ""ervilha"", ""leite""]",71
+M0375,2025-05-05,Jantar,Macarrao com manga,"[""laranja"", ""alho"", ""pao"", ""beterraba"", ""farinha"", ""espinafre"", ""carne moida""]",96
+M0376,2025-05-06,Café,Iogurte com abobrinha,"[""ovo"", ""laranja"", ""pimenta-do-reino"", ""macarrao""]",85
+M0377,2025-05-06,Almoço,Carne Moida com pimenta,"[""fermento"", ""cebola"", ""alho"", ""batata"", ""batata doce"", ""lentilha""]",60
+M0378,2025-05-06,Jantar,Iogurte com banana,"[""manga"", ""cebola"", ""chocolate"", ""mandioca"", ""pao"", ""lentilha""]",83
+M0379,2025-05-07,Café,Mamao com oregano,"[""leite condensado"", ""salsinha"", ""farinha"", ""pao"", ""leite""]",60
+M0380,2025-05-07,Almoço,Beterraba com feijao,"[""salsinha"", ""manteiga"", ""tofu"", ""molho de tomate"", ""arroz""]",81
+M0381,2025-05-07,Jantar,Arroz com fermento,"[""chocolate"", ""leite condensado"", ""cebola"", ""cenoura"", ""maca"", ""pimenta-do-reino"", ""pao""]",86
+M0382,2025-05-08,Café,Oregano com frango,"[""creme de leite"", ""espinafre"", ""batata"", ""macarrao"", ""laranja""]",93
+M0383,2025-05-08,Almoço,Beterraba com creme de leite,"[""lentilha"", ""chocolate"", ""batata"", ""mamao"", ""cenoura"", ""sal""]",68
+M0384,2025-05-08,Jantar,Tofu com milho,"[""mamao"", ""manga"", ""frango"", ""brocolis""]",102
+M0385,2025-05-09,Café,Peixe com aveia,"[""aveia"", ""alho"", ""milho"", ""molho de tomate"", ""farinha"", ""creme de leite""]",88
+M0386,2025-05-09,Almoço,Espinafre com laranja,"[""banana"", ""peixe"", ""fermento"", ""mamao""]",66
+M0387,2025-05-09,Jantar,Leite com cenoura,"[""couve"", ""lentilha"", ""alho"", ""beterraba"", ""abobrinha""]",94
+M0388,2025-05-10,Café,Manteiga com maca,"[""cebola"", ""lentilha"", ""aveia"", ""abobrinha"", ""batata"", ""queijo"", ""ervas finas""]",79
+M0389,2025-05-10,Almoço,Creme De Leite com molho de tomate,"[""maca"", ""alho"", ""leite"", ""batata""]",105
+M0390,2025-05-10,Jantar,Pao com iogurte,"[""sal"", ""frango"", ""ervas finas"", ""cebola"", ""aveia"", ""ovo"", ""feijao""]",85
+M0391,2025-05-11,Café,Couve com manga,"[""cenoura"", ""lentilha"", ""peixe"", ""abobrinha"", ""arroz""]",63
+M0392,2025-05-11,Almoço,Fermento com laranja,"[""banana"", ""milho"", ""iogurte"", ""ervas finas"", ""tofu""]",101
+M0393,2025-05-11,Jantar,Batata com abacaxi,"[""carne moida"", ""feijao"", ""fermento"", ""banana"", ""camarao"", ""couve""]",68
+M0394,2025-05-12,Café,Batata com manteiga,"[""macarrao"", ""lentilha"", ""frango"", ""queijo""]",96
+M0395,2025-05-12,Almoço,Brocolis com chocolate,"[""oregano"", ""feijao"", ""ervilha"", ""ervas finas"", ""brocolis"", ""ovo"", ""manteiga""]",73
+M0396,2025-05-12,Jantar,Ovo com tomate,"[""couve"", ""leite"", ""macarrao"", ""mandioca"", ""leite condensado"", ""creme de leite""]",75
+M0397,2025-05-13,Café,Camarao com tomate,"[""beterraba"", ""batata doce"", ""pimenta"", ""frango"", ""batata"", ""espinafre"", ""ervilha""]",68
+M0398,2025-05-13,Almoço,Beterraba com banana,"[""tofu"", ""salsinha"", ""feijao"", ""ervilha"", ""creme de leite""]",82
+M0399,2025-05-13,Jantar,Pimenta com batata doce,"[""manteiga"", ""manga"", ""sal"", ""alho"", ""ervilha"", ""espinafre"", ""ovo""]",61
+M0400,2025-05-14,Café,Fricassé,"[""feijao"", ""fermento"", ""espinafre"", ""frango"", ""pimenta""]",93
+M0401,2025-05-14,Almoço,Manteiga com abacaxi,"[""queijo"", ""cenoura"", ""pao"", ""cogumelo"", ""espinafre""]",94
+M0402,2025-05-14,Jantar,Chocolate com frango,"[""manga"", ""ervilha"", ""manteiga"", ""ovo"", ""pao""]",97
+M0403,2025-05-15,Café,Alho com farinha,"[""mamao"", ""feijao"", ""creme de leite"", ""molho de tomate"", ""manteiga"", ""manga""]",96
+M0404,2025-05-15,Almoço,Leite com mamao,"[""oregano"", ""salsinha"", ""cebola"", ""ovo"", ""macarrao""]",65
+M0405,2025-05-15,Jantar,Frango com pao,"[""feijao"", ""pimenta-do-reino"", ""pimenta"", ""arroz"", ""azeite""]",99
+M0406,2025-05-16,Café,Macarrão ao sugo e Carne moída,"[""creme de leite"", ""ovo"", ""alho"", ""frango"", ""feijao"", ""leite""]",97
+M0407,2025-05-16,Almoço,Creme De Leite com leite,"[""pimenta-do-reino"", ""iogurte"", ""carne moida"", ""creme de leite""]",102
+M0408,2025-05-16,Jantar,Milho com abacaxi,"[""azeite"", ""cebola"", ""alho"", ""peixe""]",70
+M0409,2025-05-17,Café,Leite Condensado com brocolis,"[""camarao"", ""alho"", ""ovo"", ""creme de leite"", ""batata doce"", ""molho de tomate"", ""mandioca""]",110
+M0410,2025-05-17,Almoço,Manteiga com laranja,"[""ervilha"", ""cebola"", ""leite condensado"", ""molho de tomate"", ""tomate""]",68
+M0411,2025-05-17,Jantar,Ovo com chocolate,"[""molho de tomate"", ""manga"", ""milho"", ""fermento""]",96
+M0412,2025-05-18,Café,Macarrao com banana,"[""mandioca"", ""laranja"", ""tofu"", ""manga"", ""cenoura"", ""oregano""]",69
+M0413,2025-05-18,Almoço,Azeite com farinha,"[""pao"", ""manteiga"", ""alho"", ""queijo""]",100
+M0414,2025-05-18,Jantar,Batata com leite condensado,"[""couve"", ""arroz"", ""aveia"", ""maca"", ""pao"", ""molho de tomate""]",64
+M0415,2025-05-19,Café,Manteiga com aveia,"[""leite condensado"", ""arroz"", ""frango"", ""ervilha""]",88
+M0416,2025-05-19,Almoço,Leite Condensado com beterraba,"[""beterraba"", ""oregano"", ""ervilha"", ""manteiga"", ""salsinha""]",84
+M0417,2025-05-19,Jantar,Cenoura com oregano,"[""queijo"", ""couve"", ""carne moida"", ""macarrao"", ""tomate""]",61
+M0418,2025-05-20,Café,Alho com aveia,"[""carne moida"", ""azeite"", ""queijo"", ""ervilha""]",70
+M0419,2025-05-20,Almoço,Leite Condensado com carne moida,"[""azeite"", ""abacaxi"", ""mandioca"", ""pimenta""]",105
+M0420,2025-05-20,Jantar,Feijao com couve,"[""abacaxi"", ""brocolis"", ""queijo"", ""frango"", ""cenoura""]",81
+M0421,2025-05-21,Café,Maca com banana,"[""molho de tomate"", ""batata doce"", ""leite condensado"", ""chocolate"", ""salsinha"", ""aveia"", ""cogumelo""]",78
+M0422,2025-05-21,Almoço,Cebola com pao,"[""frango"", ""milho"", ""manga"", ""batata doce""]",91
+M0423,2025-05-21,Jantar,Leite com frango,"[""arroz"", ""brocolis"", ""batata"", ""tomate"", ""cogumelo"", ""tofu""]",98
+M0424,2025-05-22,Café,Carne bovina,"[""feijao"", ""maca"", ""queijo"", ""tofu""]",78
+M0425,2025-05-22,Almoço,Batata com oregano,"[""cebola"", ""milho"", ""pimenta"", ""oregano""]",102
+M0426,2025-05-22,Jantar,Aveia com batata,"[""ovo"", ""iogurte"", ""ervilha"", ""farinha"", ""fermento"", ""couve"", ""macarrao""]",76
+M0427,2025-05-23,Café,Couve com pimenta,"[""laranja"", ""espinafre"", ""manga"", ""frango"", ""leite"", ""molho de tomate""]",102
+M0428,2025-05-23,Almoço,Cenoura com batata,"[""salsinha"", ""beterraba"", ""mamao"", ""laranja"", ""batata doce"", ""frango""]",84
+M0429,2025-05-23,Jantar,Panqueca,"[""manga"", ""pao"", ""pimenta"", ""cebola"", ""batata"", ""milho"", ""macarrao""]",92
+M0430,2025-05-24,Café,Manga com pimenta-do-reino,"[""abobrinha"", ""farinha"", ""couve"", ""ovo"", ""queijo""]",73
+M0431,2025-05-24,Almoço,Macarrão ao sugo e Carne moída,"[""brocolis"", ""batata"", ""ervas finas"", ""banana""]",100
+M0432,2025-05-24,Jantar,Leite com mandioca,"[""alho"", ""leite condensado"", ""carne moida"", ""batata"", ""ervilha"", ""batata doce""]",85
+M0433,2025-05-25,Café,Batata Doce com alho,"[""pimenta-do-reino"", ""lentilha"", ""arroz"", ""molho de tomate"", ""mandioca"", ""mamao""]",93
+M0434,2025-05-25,Almoço,Beterraba com abobrinha,"[""leite"", ""fermento"", ""manga"", ""mamao"", ""leite condensado"", ""cenoura"", ""molho de tomate""]",96
+M0435,2025-05-25,Jantar,Fermento com cenoura,"[""salsinha"", ""manteiga"", ""beterraba"", ""aveia"", ""ervilha"", ""camarao""]",91
+M0436,2025-05-26,Café,Manga com mandioca,"[""macarrao"", ""ovo"", ""espinafre"", ""milho"", ""leite"", ""mandioca"", ""abacaxi""]",103
+M0437,2025-05-26,Almoço,Molho De Tomate com milho,"[""milho"", ""azeite"", ""molho de tomate"", ""pao""]",63
+M0438,2025-05-26,Jantar,Chocolate com pimenta,"[""iogurte"", ""feijao"", ""azeite"", ""cebola"", ""leite condensado"", ""espinafre""]",91
+M0439,2025-05-27,Café,Molho De Tomate com ervas finas,"[""laranja"", ""peixe"", ""cebola"", ""chocolate""]",88
+M0440,2025-05-27,Almoço,Fermento com alho,"[""leite condensado"", ""beterraba"", ""abacaxi"", ""camarao"", ""batata"", ""banana""]",88
+M0441,2025-05-27,Jantar,Maca com brocolis,"[""farinha"", ""pimenta-do-reino"", ""iogurte"", ""frango"", ""sal"", ""queijo"", ""carne moida""]",79
+M0442,2025-05-28,Café,Creme De Leite com sal,"[""peixe"", ""pimenta-do-reino"", ""manga"", ""feijao"", ""ovo"", ""banana"", ""molho de tomate""]",63
+M0443,2025-05-28,Almoço,Pao com macarrao,"[""frango"", ""iogurte"", ""creme de leite"", ""banana"", ""espinafre"", ""farinha"", ""lentilha""]",92
+M0444,2025-05-28,Jantar,Milho com camarao,"[""ervas finas"", ""feijao"", ""pao"", ""iogurte""]",91
+M0445,2025-05-29,Café,Abacaxi com couve,"[""pimenta"", ""mamao"", ""batata doce"", ""manteiga"", ""queijo""]",76
+M0446,2025-05-29,Almoço,Chocolate com molho de tomate,"[""tomate"", ""feijao"", ""ervilha"", ""frango""]",70
+M0447,2025-05-29,Jantar,Manga com maca,"[""camarao"", ""laranja"", ""ervas finas"", ""maca"", ""espinafre""]",101
+M0448,2025-05-30,Café,Beterraba com pimenta-do-reino,"[""fermento"", ""ervas finas"", ""arroz"", ""pimenta""]",68
+M0449,2025-05-30,Almoço,Camarao com ovo,"[""laranja"", ""aveia"", ""abacaxi"", ""cebola""]",105
+M0450,2025-05-30,Jantar,Creme De Leite com camarao,"[""brocolis"", ""ervilha"", ""manteiga"", ""lentilha"", ""aveia"", ""maca""]",89
+M0451,2025-05-31,Café,Cebola com molho de tomate,"[""mamao"", ""cenoura"", ""arroz"", ""sal"", ""cogumelo"", ""iogurte"", ""batata doce""]",101
+M0452,2025-05-31,Almoço,Abacaxi com mandioca,"[""cebola"", ""ervas finas"", ""cenoura"", ""pimenta"", ""carne moida"", ""azeite""]",77
+M0453,2025-05-31,Jantar,Tofu com alho,"[""aveia"", ""camarao"", ""creme de leite"", ""farinha"", ""cebola"", ""banana""]",69
+M0454,2025-06-01,Café,Pimenta-Do-Reino com fermento,"[""frango"", ""abacaxi"", ""milho"", ""cogumelo"", ""alho""]",103
+M0455,2025-06-01,Almoço,Peixe com chocolate,"[""camarao"", ""oregano"", ""tomate"", ""aveia""]",86
+M0456,2025-06-01,Jantar,Milho com ervilha,"[""mamao"", ""creme de leite"", ""manga"", ""banana""]",81
+M0457,2025-06-02,Café,Leite Condensado com creme de leite,"[""ervas finas"", ""salsinha"", ""tofu"", ""pimenta"", ""cogumelo""]",82
+M0458,2025-06-02,Almoço,Sal com cebola,"[""cogumelo"", ""batata doce"", ""ovo"", ""tomate"", ""cenoura""]",90
+M0459,2025-06-02,Jantar,Peixe com farinha,"[""leite condensado"", ""batata doce"", ""ovo"", ""ervas finas"", ""azeite"", ""camarao""]",65
+M0460,2025-06-03,Café,Laranja com iogurte,"[""chocolate"", ""cebola"", ""beterraba"", ""azeite"", ""iogurte""]",76
+M0461,2025-06-03,Almoço,Mamao com tomate,"[""abobrinha"", ""pimenta"", ""frango"", ""tofu"", ""mamao"", ""creme de leite"", ""mandioca""]",64
+M0462,2025-06-03,Jantar,Carne bovina,"[""ervas finas"", ""ervilha"", ""pimenta-do-reino"", ""cebola""]",86
+M0463,2025-06-04,Café,Frango com queijo,"[""banana"", ""azeite"", ""beterraba"", ""manga"", ""lentilha""]",69
+M0464,2025-06-04,Almoço,Alho com leite condensado,"[""fermento"", ""batata"", ""oregano"", ""azeite"", ""tofu""]",71
+M0465,2025-06-04,Jantar,Alho com camarao,"[""arroz"", ""couve"", ""espinafre"", ""maca""]",108
+M0466,2025-06-05,Café,Fermento com queijo,"[""oregano"", ""farinha"", ""fermento"", ""batata"", ""peixe""]",99
+M0467,2025-06-05,Almoço,Brocolis com camarao,"[""milho"", ""brocolis"", ""pimenta"", ""ervilha"", ""arroz"", ""macarrao"", ""salsinha""]",72
+M0468,2025-06-05,Jantar,Leite Condensado com iogurte,"[""alho"", ""farinha"", ""pimenta-do-reino"", ""banana""]",61
+M0469,2025-06-06,Café,Ervas Finas com arroz,"[""laranja"", ""molho de tomate"", ""manteiga"", ""cebola"", ""peixe""]",66
+M0470,2025-06-06,Almoço,Ervilha com pimenta-do-reino,"[""queijo"", ""carne moida"", ""macarrao"", ""cebola"", ""tomate"", ""lentilha""]",106
+M0471,2025-06-06,Jantar,Pimenta-Do-Reino com mandioca,"[""brocolis"", ""ervas finas"", ""peixe"", ""azeite"", ""oregano"", ""manteiga""]",108
+M0472,2025-06-07,Café,Banana com queijo,"[""feijao"", ""laranja"", ""farinha"", ""leite condensado"", ""peixe"", ""maca"", ""fermento""]",97
+M0473,2025-06-07,Almoço,Sal com queijo,"[""iogurte"", ""creme de leite"", ""camarao"", ""macarrao""]",84
+M0474,2025-06-07,Jantar,Tofu com aveia,"[""abacaxi"", ""frango"", ""cogumelo"", ""cenoura""]",101
+M0475,2025-06-08,Café,Feijao com carne moida,"[""beterraba"", ""couve"", ""ervilha"", ""abobrinha""]",95
+M0476,2025-06-08,Almoço,Aveia com oregano,"[""maca"", ""molho de tomate"", ""ervas finas"", ""tofu"", ""arroz""]",79
+M0477,2025-06-08,Jantar,Beterraba com ervas finas,"[""cogumelo"", ""pimenta-do-reino"", ""espinafre"", ""mandioca""]",98
+M0478,2025-06-09,Café,Molho De Tomate com peixe,"[""cenoura"", ""sal"", ""leite condensado"", ""mandioca"", ""abobrinha"", ""tomate"", ""creme de leite""]",110
+M0479,2025-06-09,Almoço,Cenoura com sal,"[""abacaxi"", ""banana"", ""fermento"", ""aveia"", ""pimenta-do-reino""]",72
+M0480,2025-06-09,Jantar,Manteiga com leite condensado,"[""tomate"", ""queijo"", ""macarrao"", ""batata doce"", ""oregano"", ""maca"", ""pimenta""]",81
+M0481,2025-06-10,Café,Pao com arroz,"[""cogumelo"", ""batata"", ""abobrinha"", ""manga""]",102
+M0482,2025-06-10,Almoço,Oregano com leite,"[""fermento"", ""sal"", ""carne moida"", ""leite condensado""]",106
+M0483,2025-06-10,Jantar,Cenoura com espinafre,"[""lentilha"", ""tomate"", ""aveia"", ""frango"", ""cenoura""]",71
+M0484,2025-06-11,Café,Macarrao com cebola,"[""ervas finas"", ""alho"", ""brocolis"", ""abobrinha"", ""cenoura"", ""macarrao""]",60
+M0485,2025-06-11,Almoço,Peixe com ervas finas,"[""azeite"", ""manteiga"", ""couve"", ""mandioca"", ""espinafre""]",106
+M0486,2025-06-11,Jantar,Batata com ervilha,"[""ovo"", ""abobrinha"", ""milho"", ""chocolate"", ""lentilha"", ""espinafre""]",84
+M0487,2025-06-12,Café,Molho De Tomate com pimenta,"[""camarao"", ""queijo"", ""abobrinha"", ""peixe"", ""molho de tomate"", ""frango"", ""farinha""]",66
+M0488,2025-06-12,Almoço,Beterraba com abacaxi,"[""manga"", ""ervas finas"", ""couve"", ""ovo"", ""mandioca"", ""ervilha"", ""manteiga""]",99
+M0489,2025-06-12,Jantar,Feijao com molho de tomate,"[""pimenta"", ""oregano"", ""abobrinha"", ""beterraba"", ""couve""]",62
+M0490,2025-06-13,Café,Carne Moida com espinafre,"[""arroz"", ""creme de leite"", ""ervas finas"", ""pimenta-do-reino"", ""manga"", ""farinha""]",74
+M0491,2025-06-13,Almoço,Cogumelo com azeite,"[""brocolis"", ""cogumelo"", ""leite condensado"", ""pao""]",90
+M0492,2025-06-13,Jantar,Manteiga com ervas finas,"[""leite"", ""batata doce"", ""mandioca"", ""frango"", ""arroz"", ""camarao"", ""queijo""]",92
+M0493,2025-06-14,Café,Pimenta com sal,"[""carne moida"", ""farinha"", ""oregano"", ""alho"", ""pao""]",81
+M0494,2025-06-14,Almoço,Espinafre com frango,"[""batata doce"", ""camarao"", ""ervilha"", ""milho"", ""pao""]",65
+M0495,2025-06-14,Jantar,Lentilha com couve,"[""batata"", ""oregano"", ""couve"", ""alho"", ""abobrinha"", ""farinha"", ""camarao""]",61
+M0496,2025-06-15,Café,Cenoura com beterraba,"[""macarrao"", ""batata doce"", ""farinha"", ""arroz"", ""batata"", ""abacaxi"", ""mandioca""]",100
+M0497,2025-06-15,Almoço,Cebola com pimenta-do-reino,"[""camarao"", ""cogumelo"", ""lentilha"", ""azeite"", ""iogurte""]",63
+M0498,2025-06-15,Jantar,Laranja com pimenta,"[""batata doce"", ""mandioca"", ""abacaxi"", ""pimenta"", ""creme de leite"", ""cogumelo""]",83
+M0499,2025-06-16,Café,Creme De Leite com couve,"[""cenoura"", ""farinha"", ""cogumelo"", ""laranja""]",60
+M0500,2025-06-16,Almoço,Azeite com iogurte,"[""batata doce"", ""pimenta-do-reino"", ""iogurte"", ""molho de tomate"", ""cenoura"", ""macarrao""]",70
+M0501,2025-06-16,Jantar,Oregano com peixe,"[""cenoura"", ""aveia"", ""mandioca"", ""banana"", ""leite condensado"", ""abobrinha"", ""milho""]",73
+M0502,2025-06-17,Café,Lentilha com banana,"[""cenoura"", ""farinha"", ""beterraba"", ""macarrao"", ""tofu"", ""ervas finas""]",97
+M0503,2025-06-17,Almoço,Abobrinha com lentilha,"[""cogumelo"", ""mamao"", ""sal"", ""peixe"", ""oregano"", ""arroz"", ""pimenta-do-reino""]",107
+M0504,2025-06-17,Jantar,Frango com manga,"[""mamao"", ""pimenta"", ""sal"", ""ovo"", ""molho de tomate"", ""fermento"", ""leite condensado""]",106
+M0505,2025-06-18,Café,Peixe com cenoura,"[""cogumelo"", ""abacaxi"", ""farinha"", ""alho"", ""sal"", ""ervilha"", ""beterraba""]",98
+M0506,2025-06-18,Almoço,Molho De Tomate com fermento,"[""espinafre"", ""milho"", ""azeite"", ""tomate"", ""couve""]",68
+M0507,2025-06-18,Jantar,Peixe com brocolis,"[""molho de tomate"", ""batata doce"", ""alho"", ""creme de leite"", ""farinha"", ""tofu""]",73
+M0508,2025-06-19,Café,Banana com laranja,"[""ervas finas"", ""manteiga"", ""fermento"", ""peixe"", ""creme de leite"", ""camarao""]",71
+M0509,2025-06-19,Almoço,Sal com batata doce,"[""creme de leite"", ""abobrinha"", ""manteiga"", ""batata doce"", ""pimenta"", ""mamao""]",96
+M0510,2025-06-19,Jantar,Cogumelo com leite condensado,"[""ervas finas"", ""chocolate"", ""salsinha"", ""tomate"", ""brocolis"", ""arroz"", ""pimenta-do-reino""]",66
+M0511,2025-06-20,Café,Feijao com milho,"[""frango"", ""cogumelo"", ""banana"", ""espinafre"", ""farinha""]",110
+M0512,2025-06-20,Almoço,Queijo com cebola,"[""leite"", ""frango"", ""molho de tomate"", ""tomate"", ""maca"", ""salsinha""]",62
+M0513,2025-06-20,Jantar,Manteiga com lentilha,"[""mandioca"", ""ervas finas"", ""chocolate"", ""batata doce""]",74
+M0514,2025-06-21,Café,Chocolate com camarao,"[""pao"", ""sal"", ""molho de tomate"", ""tomate"", ""chocolate"", ""cogumelo"", ""frango""]",84
+M0515,2025-06-21,Almoço,Ervilha com brocolis,"[""batata doce"", ""frango"", ""arroz"", ""aveia"", ""banana"", ""mandioca""]",109
+M0516,2025-06-21,Jantar,Couve com laranja,"[""farinha"", ""mamao"", ""salsinha"", ""abacaxi"", ""banana"", ""creme de leite""]",78
+M0517,2025-06-22,Café,Couve com ovo,"[""ovo"", ""chocolate"", ""sal"", ""abobrinha""]",84
+M0518,2025-06-22,Almoço,Macarrao com couve,"[""batata doce"", ""aveia"", ""peixe"", ""queijo"", ""mamao"", ""farinha""]",60
+M0519,2025-06-22,Jantar,Azeite com pimenta,"[""macarrao"", ""leite"", ""alho"", ""abacaxi"", ""frango""]",109
+M0520,2025-06-23,Café,Tofu com mandioca,"[""oregano"", ""manga"", ""batata doce"", ""manteiga"", ""carne moida"", ""alho""]",93
+M0521,2025-06-23,Almoço,Laranja com ovo,"[""sal"", ""queijo"", ""beterraba"", ""salsinha""]",94
+M0522,2025-06-23,Jantar,Milho com batata,"[""laranja"", ""maca"", ""cogumelo"", ""azeite"", ""leite condensado"", ""iogurte""]",78
+M0523,2025-06-24,Café,Maca com fermento,"[""batata doce"", ""farinha"", ""camarao"", ""arroz"", ""abobrinha"", ""cogumelo"", ""manteiga""]",88
+M0524,2025-06-24,Almoço,Pao com cogumelo,"[""macarrao"", ""ervas finas"", ""alho"", ""ervilha"", ""abobrinha""]",84
+M0525,2025-06-24,Jantar,Aveia com batata doce,"[""feijao"", ""pimenta-do-reino"", ""iogurte"", ""sal"", ""leite condensado"", ""couve""]",91
+M0526,2025-06-25,Café,Macarrao com cebola,"[""alho"", ""sal"", ""batata"", ""cenoura"", ""queijo""]",109
+M0527,2025-06-25,Almoço,Salsinha com batata doce,"[""tofu"", ""carne moida"", ""maca"", ""cogumelo""]",100
+M0528,2025-06-25,Jantar,Fermento com maca,"[""cenoura"", ""maca"", ""salsinha"", ""molho de tomate"", ""brocolis"", ""camarao"", ""carne moida""]",107
+M0529,2025-06-26,Café,Ervas Finas com leite,"[""lentilha"", ""creme de leite"", ""azeite"", ""macarrao""]",65
+M0530,2025-06-26,Almoço,Carne Moida com frango,"[""aveia"", ""batata doce"", ""carne moida"", ""manga"", ""laranja""]",76
+M0531,2025-06-26,Jantar,Beterraba com ervilha,"[""tofu"", ""milho"", ""brocolis"", ""alho"", ""feijao"", ""ervilha"", ""ervas finas""]",67
+M0532,2025-06-27,Café,Salsinha com arroz,"[""farinha"", ""chocolate"", ""mamao"", ""macarrao""]",104
+M0533,2025-06-27,Almoço,Carne Moida com iogurte,"[""tomate"", ""ervas finas"", ""cebola"", ""abacaxi""]",65
+M0534,2025-06-27,Jantar,Tomate com fermento,"[""ervilha"", ""milho"", ""cogumelo"", ""feijao"", ""pimenta"", ""queijo"", ""salsinha""]",74
+M0535,2025-06-28,Café,Peixe com farinha,"[""salsinha"", ""tomate"", ""tofu"", ""leite"", ""cebola"", ""ervas finas"", ""camarao""]",83
+M0536,2025-06-28,Almoço,Arroz com manga,"[""abobrinha"", ""macarrao"", ""arroz"", ""manga"", ""abacaxi""]",85
+M0537,2025-06-28,Jantar,Salsinha com manga,"[""cebola"", ""maca"", ""chocolate"", ""leite condensado""]",82
+M0538,2025-06-29,Café,Maca com brocolis,"[""queijo"", ""ovo"", ""laranja"", ""mandioca"", ""aveia""]",72
+M0539,2025-06-29,Almoço,Abobrinha com banana,"[""farinha"", ""batata doce"", ""lentilha"", ""camarao""]",95
+M0540,2025-06-29,Jantar,Carne Moida com cebola,"[""aveia"", ""cenoura"", ""banana"", ""leite condensado""]",97

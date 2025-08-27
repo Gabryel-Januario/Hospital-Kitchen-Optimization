@@ -1,0 +1,101 @@
+child_id,age,sex,ward,days_admitted
+C001,7,M,Pediatria Geral,29
+C002,15,F,Pediatria Geral,43
+C003,8,M,Oncologia,21
+C004,7,M,Pediatria Geral,19
+C005,7,M,Pediatria Geral,11
+C006,11,M,Pediatria Geral,24
+C007,5,M,Pediatria Geral,36
+C008,8,F,Pediatria Geral,24
+C009,3,F,UTI Pediátrica,22
+C010,5,M,UTI Pediátrica,2
+C011,8,M,Oncologia,44
+C012,14,F,Pediatria Geral,38
+C013,2,M,Cardiologia Pediátrica,21
+C014,1,F,Pediatria Geral,12
+C015,10,F,Pediatria Geral,22
+C016,13,F,Oncologia,44
+C017,9,M,Oncologia,27
+C018,11,M,Cardiologia Pediátrica,42
+C019,12,F,Pediatria Geral,16
+C020,15,F,UTI Pediátrica,44
+C021,7,F,Pediatria Geral,3
+C022,5,M,Pediatria Geral,7
+C023,5,M,UTI Pediátrica,9
+C024,7,M,Cardiologia Pediátrica,18
+C025,4,M,Pediatria Geral,25
+C026,12,F,Oncologia,14
+C027,2,F,Pediatria Geral,9
+C028,10,F,Pediatria Geral,2
+C029,4,F,Oncologia,28
+C030,15,M,Oncologia,7
+C031,12,M,Pediatria Geral,8
+C032,15,M,Pediatria Geral,35
+C033,14,F,Pediatria Geral,17
+C034,4,M,Oncologia,40
+C035,4,M,Pediatria Geral,2
+C036,14,M,UTI Pediátrica,6
+C037,6,F,Pediatria Geral,42
+C038,4,M,Cardiologia Pediátrica,29
+C039,15,F,Pediatria Geral,18
+C040,10,F,Pediatria Geral,44
+C041,2,F,Pediatria Geral,10
+C042,14,M,Pediatria Geral,36
+C043,14,F,Oncologia,31
+C044,15,F,Cardiologia Pediátrica,8
+C045,14,F,Pediatria Geral,23
+C046,12,M,Pediatria Geral,40
+C047,5,M,UTI Pediátrica,16
+C048,13,M,Pediatria Geral,18
+C049,15,M,UTI Pediátrica,24
+C050,10,F,Pediatria Geral,25
+C051,12,F,Pediatria Geral,41
+C052,13,F,Pediatria Geral,15
+C053,13,M,Oncologia,1
+C054,9,M,Oncologia,7
+C055,9,F,UTI Pediátrica,24
+C056,1,F,Pediatria Geral,44
+C057,8,F,Pediatria Geral,24
+C058,15,M,Cardiologia Pediátrica,11
+C059,3,F,Cardiologia Pediátrica,17
+C060,8,M,Pediatria Geral,35
+C061,3,M,Cardiologia Pediátrica,33
+C062,11,F,UTI Pediátrica,5
+C063,10,M,Pediatria Geral,39
+C064,10,M,Pediatria Geral,41
+C065,12,M,Pediatria Geral,7
+C066,9,F,Pediatria Geral,8
+C067,12,F,Cardiologia Pediátrica,34
+C068,1,F,Pediatria Geral,23
+C069,14,M,Cardiologia Pediátrica,24
+C070,5,M,Pediatria Geral,35
+C071,12,F,UTI Pediátrica,40
+C072,6,M,Pediatria Geral,27
+C073,3,F,Cardiologia Pediátrica,1
+C074,3,M,Pediatria Geral,37
+C075,15,F,Cardiologia Pediátrica,14
+C076,3,M,Oncologia,1
+C077,5,F,Cardiologia Pediátrica,26
+C078,7,F,Pediatria Geral,14
+C079,7,F,Pediatria Geral,27
+C080,9,M,Pediatria Geral,15
+C081,15,M,Pediatria Geral,26
+C082,10,M,Pediatria Geral,13
+C083,3,M,Pediatria Geral,32
+C084,7,M,Pediatria Geral,32
+C085,4,M,Cardiologia Pediátrica,30
+C086,5,M,Pediatria Geral,23
+C087,7,F,Oncologia,15
+C088,11,M,Pediatria Geral,29
+C089,4,F,Pediatria Geral,13
+C090,7,F,UTI Pediátrica,22
+C091,12,M,Pediatria Geral,2
+C092,10,F,Pediatria Geral,6
+C093,12,F,Pediatria Geral,28
+C094,12,M,Oncologia,44
+C095,4,M,Pediatria Geral,30
+C096,14,F,UTI Pediátrica,11
+C097,10,M,Pediatria Geral,28
+C098,9,M,Pediatria Geral,39
+C099,14,M,Pediatria Geral,33
+C100,1,F,Pediatria Geral,27

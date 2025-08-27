@@ -1,0 +1,51 @@
+ingredient_id,name,category
+I001,arroz,Carne
+I002,feijao,Óleo
+I003,macarrao,Carne
+I004,frango,Vegetal
+I005,carne moida,Vegetal
+I006,batata,Carne
+I007,cenoura,Cereal
+I008,abobrinha,Fruta
+I009,peixe,Tempero
+I010,leite,Óleo
+I011,queijo,Óleo
+I012,ovo,Cereal
+I013,banana,Tempero
+I014,maca,Vegetal
+I015,laranja,Fruta
+I016,pao,Tempero
+I017,aveia,Vegetal
+I018,espinafre,Tempero
+I019,tomate,Lácteo
+I020,cebola,Óleo
+I021,alho,Lácteo
+I022,azeite,Tempero
+I023,manteiga,Óleo
+I024,iogurte,Fruta
+I025,ervilha,Cereal
+I026,milho,Lácteo
+I027,beterraba,Cereal
+I028,brocolis,Vegetal
+I029,couve,Vegetal
+I030,lentilha,Leguminosa
+I031,pimenta,Vegetal
+I032,oregano,Vegetal
+I033,sal,Óleo
+I034,pimenta-do-reino,Fruta
+I035,salsinha,Vegetal
+I036,batata doce,Carne
+I037,manga,Fruta
+I038,mamao,Carne
+I039,abacaxi,Carne
+I040,mandioca,Cereal
+I041,tofu,Tempero
+I042,camarao,Carne
+I043,cogumelo,Cereal
+I044,ervas finas,Vegetal
+I045,molho de tomate,Carne
+I046,creme de leite,Tempero
+I047,leite condensado,Leguminosa
+I048,chocolate,Lácteo
+I049,farinha,Cereal
+I050,fermento,Leguminosa

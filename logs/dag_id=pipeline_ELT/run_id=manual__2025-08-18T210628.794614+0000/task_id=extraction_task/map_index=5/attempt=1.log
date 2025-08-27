@@ -1,0 +1,3 @@
+{"timestamp":"2025-08-18T21:06:34.974996","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-18T21:06:34.984372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ELT.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-18T21:07:07.811897Z","level":"critical","event":"Process terminated by signal. For more information, see https://airflow.apache.org/docs/apache-airflow/stable/troubleshooting.html#TaskRunner-killed","signal":-9,"signal_name":"SIGKILL","logger":"task"}
